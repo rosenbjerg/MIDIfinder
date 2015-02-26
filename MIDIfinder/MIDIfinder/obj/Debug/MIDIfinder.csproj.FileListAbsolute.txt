@@ -1,0 +1,9 @@
+C:\Users\Malte\Documents\GitHub\MIDIfinder\MIDIfinder\MIDIfinder\bin\Debug\MIDIfinder.exe.config
+C:\Users\Malte\Documents\GitHub\MIDIfinder\MIDIfinder\MIDIfinder\bin\Debug\MIDIfinder.exe
+C:\Users\Malte\Documents\GitHub\MIDIfinder\MIDIfinder\MIDIfinder\bin\Debug\MIDIfinder.pdb
+C:\Users\Malte\Documents\GitHub\MIDIfinder\MIDIfinder\MIDIfinder\obj\Debug\MIDIfinder.csprojResolveAssemblyReference.cache
+C:\Users\Malte\Documents\GitHub\MIDIfinder\MIDIfinder\MIDIfinder\obj\Debug\MIDIfinder.Main.resources
+C:\Users\Malte\Documents\GitHub\MIDIfinder\MIDIfinder\MIDIfinder\obj\Debug\MIDIfinder.Properties.Resources.resources
+C:\Users\Malte\Documents\GitHub\MIDIfinder\MIDIfinder\MIDIfinder\obj\Debug\MIDIfinder.csproj.GenerateResource.Cache
+C:\Users\Malte\Documents\GitHub\MIDIfinder\MIDIfinder\MIDIfinder\obj\Debug\MIDIfinder.exe
+C:\Users\Malte\Documents\GitHub\MIDIfinder\MIDIfinder\MIDIfinder\obj\Debug\MIDIfinder.pdb
